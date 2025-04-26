@@ -7,7 +7,6 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 public class FeignConfig {
-    // Cấu hình Feign Client để kích hoạt fallback
     
     @Bean
     public ProductClientFallback productClientFallback() {
@@ -16,7 +15,6 @@ public class FeignConfig {
     
     @Bean
     public Logger.Level feignLoggerLevel() {
-        // Để log chi tiết các request/response của Feign client
         return Logger.Level.FULL;
     }
 }
