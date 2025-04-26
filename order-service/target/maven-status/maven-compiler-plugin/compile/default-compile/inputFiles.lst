@@ -1,0 +1,11 @@
+/app/order-service/src/main/java/com/example/orderservice/client/ProductResponse.java
+/app/order-service/src/main/java/com/example/orderservice/service/impl/OrderServiceImpl.java
+/app/order-service/src/main/java/com/example/orderservice/dto/OrderRequest.java
+/app/order-service/src/main/java/com/example/orderservice/repository/OrderRepository.java
+/app/order-service/src/main/java/com/example/orderservice/client/ProductClient.java
+/app/order-service/src/main/java/com/example/orderservice/model/OrderItem.java
+/app/order-service/src/main/java/com/example/orderservice/service/OrderService.java
+/app/order-service/src/main/java/com/example/orderservice/controller/OrderController.java
+/app/order-service/src/main/java/com/example/orderservice/dto/OrderItemRequest.java
+/app/order-service/src/main/java/com/example/orderservice/model/Order.java
+/app/order-service/src/main/java/com/example/orderservice/OrderServiceApplication.java

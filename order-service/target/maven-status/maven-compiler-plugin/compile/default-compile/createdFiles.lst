@@ -1,0 +1,16 @@
+com/example/orderservice/OrderServiceApplication.class
+com/example/orderservice/dto/OrderItemRequest.class
+com/example/orderservice/model/Order.class
+com/example/orderservice/model/Order$OrderBuilder.class
+com/example/orderservice/service/OrderService.class
+com/example/orderservice/client/ProductClient.class
+com/example/orderservice/repository/OrderRepository.class
+com/example/orderservice/model/OrderItem$OrderItemBuilder.class
+com/example/orderservice/dto/OrderItemRequest$OrderItemRequestBuilder.class
+com/example/orderservice/service/impl/OrderServiceImpl.class
+com/example/orderservice/client/ProductResponse.class
+com/example/orderservice/client/ProductResponse$ProductResponseBuilder.class
+com/example/orderservice/controller/OrderController.class
+com/example/orderservice/model/OrderItem.class
+com/example/orderservice/dto/OrderRequest$OrderRequestBuilder.class
+com/example/orderservice/dto/OrderRequest.class

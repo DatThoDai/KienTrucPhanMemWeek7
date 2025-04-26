@@ -1,0 +1,6 @@
+/app/product-service/src/main/java/com/example/productservice/repository/ProductRepository.java
+/app/product-service/src/main/java/com/example/productservice/model/Product.java
+/app/product-service/src/main/java/com/example/productservice/ProductServiceApplication.java
+/app/product-service/src/main/java/com/example/productservice/service/impl/ProductServiceImpl.java
+/app/product-service/src/main/java/com/example/productservice/controller/ProductController.java
+/app/product-service/src/main/java/com/example/productservice/service/ProductService.java
